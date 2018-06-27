@@ -10,7 +10,7 @@
 [其他系统下载 Other platforms](https://github.com/getlantern/forum/wiki)
 
 请大家收藏本页面，方便日后下载新版。
-Please bookmark the webpage to download updated versions in the future.
+Bookmark this page to download the latest versions in the future.
 
 **使用遇到问题，请阅读[蓝灯常见问题解决办法](https://github.com/getlantern/forum/wiki/FAQ) When you have a problem when using Lantern, please refer to [FAQ](https://github.com/getlantern/forum/wiki/FAQ)** 
 
