@@ -14,5 +14,8 @@ Bookmark this page to download the latest versions in the future.
 
 **使用遇到问题，请阅读[蓝灯常见问题解决办法](https://github.com/getlantern/download/wiki/FAQ) When you have a problem when using Lantern, please refer to [FAQ](https://github.com/getlantern/download/wiki/FAQ)** 
 
+### 公告 2018.08.01
+因为众所周知的原因，部分用户使用蓝灯服务不稳定。我们正在全力修复，现有专业版用户将会自动收到一个月的补偿，谢谢大家的耐心！
+
 
 🔴请从官网https://GetLantern.org 或者本页面下载蓝灯软件。其他网站的下载链接都可能包含病毒。🔴
