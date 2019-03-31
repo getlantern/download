@@ -1,4 +1,4 @@
-## 蓝灯(Lantern)最新版本下载 Lastest version of Lantern
+## 蓝灯(Lantern)最新版本下载 Lastest version of Lantern 5.3.2
 
 **🔴[蓝灯最新版本下载地址请点这里 Click here for most updated version of Lantern](https://github.com/getlantern/download/wiki)🔴**
 
