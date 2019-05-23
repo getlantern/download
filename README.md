@@ -1,4 +1,4 @@
-## 蓝灯(Lantern)最新版本下载 Latest version of Lantern 5.3.2
+## 蓝灯(Lantern)最新版本下载
 
 **🔴[蓝灯最新版本下载地址请点这里 Click here for most updated version of Lantern](https://github.com/getlantern/download/wiki)🔴**
 
@@ -7,9 +7,11 @@
 
 [安卓版(4.1+) Android(4.1+)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk)               [备用地址 Alternative address](https://s3.amazonaws.com/lantern/lantern-installer.apk)  [Google Play 下载 Download](https://play.google.com/store/apps/details?id=org.getlantern.lantern) 
 
-- [苹果电脑版(OS X 10.11 El Capitan及以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.dmg)
-- [Ubuntu 14.04 32 bit](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-32-bit.deb)
-- [Ubuntu 14.04 64 bit](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-64-bit.deb)
+[苹果电脑版(OS X 10.11 El Capitan及以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.dmg)
+
+[Ubuntu 14.04 32 bit](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-32-bit.deb)
+
+[Ubuntu 14.04 64 bit](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-64-bit.deb)
 
 请大家收藏本页面，方便日后下载新版。
 Bookmark this page to download the latest versions in the future.
