@@ -24,4 +24,4 @@ Bookmark this page to download the latest versions in the future.
 
 **第一次下载安装蓝灯时，请等待几分钟以便完成配置，笔芯**
 
-**Please allow some time for Lantern to complete configurations if intalling it for the first-time, love <3**
+**Please allow some time for Lantern to complete configurations if installing it for the first-time, love <3**
