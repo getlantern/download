@@ -7,7 +7,7 @@
 [安卓版(4.1+) Android(4.1+)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk)               [备用地址 Alternative address](https://s3.amazonaws.com/lantern/lantern-installer.apk)  [Google Play 下载 Download](https://play.google.com/store/apps/details?id=org.getlantern.lantern) 
 
 
-[iOS版本(12.1+) iOS(12.1+)](https://apps.apple.com/app/id1457872372) 
+[iOS版本(12.1+) iOS(12.1+)](https://apps.apple.com/app/id1457872372) [安装使用指南](https://github.com/getlantern/lantern/wiki/Lantern-iOS-Installation&Use-Guide-%E8%93%9D%E7%81%AFiOS%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
 
 [苹果电脑版(OS X 10.11 El Capitan及以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.dmg)               [备用地址 Alternative address](https://s3.amazonaws.com/lantern/lantern-installer.dmg) 
