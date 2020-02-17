@@ -1,4 +1,4 @@
-## 蓝灯(Lantern)最新版本下载 版本5.6.4  Download Lantern Version 5.6.4
+## 蓝灯(Lantern)最新版本下载 版本5.8.3  Download Lantern Version 5.8.3
 
 [Windows7及以上 Windows 7+](https://gitlab.com/getlantern/lantern-binaries/raw/master/lantern-installer.exe)      [备用地址1 Alternative address1](https://s3.amazonaws.com/lantern/lantern-installer.exe)  [备用地址2 Alternative address2](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe)  
 
