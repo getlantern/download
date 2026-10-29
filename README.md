@@ -7,7 +7,7 @@ Lantern 10 已发布，更快更稳定。本页面已停止更新，最新版本
 - [Windows 10+ · Windows 10 及以上](https://github.com/getlantern/lantern/releases/latest/download/lantern-installer.exe)
 - [Android 7+ (ARM64) · 安卓 7 及以上](https://github.com/getlantern/lantern/releases/latest/download/lantern-installer.apk) · [32-bit / ARMv7](https://github.com/getlantern/lantern/releases/latest/download/lantern-installer-armv7.apk) · [Google Play](https://play.google.com/store/apps/details?id=org.getlantern.lantern)
 - [macOS 10.15+ · macOS 10.15 及以上](https://github.com/getlantern/lantern/releases/latest/download/lantern-installer.dmg)
-- [iOS · App Store](https://apps.apple.com/app/id1457872372) — Not available in the China store, see [help](https://lantern.io/faq#use-2) · 中国区不可用，切换账号方法见 [帮助](https://lantern.io/faq#use-2)
+- [iOS · App Store](https://apps.apple.com/app/id1457872372) 
 - Linux: [deb](https://github.com/getlantern/lantern/releases/latest/download/lantern-installer.deb) · [rpm](https://github.com/getlantern/lantern/releases/latest/download/lantern-installer.rpm)
 
 Bookmark the [official repo](https://github.com/getlantern/lantern) for future updates. Official website: [lantern.io](https://lantern.io).
